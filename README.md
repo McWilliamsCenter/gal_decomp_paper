@@ -7,5 +7,6 @@ The dynamical/kinematic parameters and variables used here are explained in the 
 
 
 
-# Dynamical Galaxy decomposition: Performance on large ensemble of galaxies
-# Distribution of half mass radii and sersic indeces
+# Performance on large ensemble of galaxies: Distribution of half-mass radii and Sersic indeces
+
+![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
