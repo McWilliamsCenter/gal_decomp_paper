@@ -4,3 +4,8 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for Illustris
 The dynamical/kinematic parameters and variables used here are explained in the paper.
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/mc_image.png?raw=true)
+
+
+
+# Dynamical Galaxy decomposition: Performance on large ensemble of galaxies
+# Distribution of half mass radii and sersic indeces
