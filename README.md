@@ -10,3 +10,12 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for Illustris
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
 *Figure: Fit paramters from a Sersic profile on galaxies of TNG100-1. More details are in the paper.*
+
+
+## Dependencies
+
+This project requires the following Python packages installed:
+
+* [astropy](http://www.astropy.org)
+* [inertia_tensors](https://github.com/duncandc/inertia_tensors/edit/master/README.md)
+* [illustris_python](https://bitbucket.org/illustris/illustris_python)
