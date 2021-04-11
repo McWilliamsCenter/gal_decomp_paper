@@ -14,7 +14,7 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for Illustris
 
 ## Dependencies
 
-To run, the following Python packages are required:
+To run, the following Python packages are required other than standard ones like pandas, numpy, scipy, matplotlib:
 
 * [astropy](http://www.astropy.org)
 * [inertia_tensors](https://github.com/duncandc/inertia_tensors/edit/master/README.md)
