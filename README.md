@@ -1,5 +1,6 @@
 # Dynamical Galaxy decomposition
-This repo contains the dynamically decomposed (bulge-disc) catalog for IllustrisTNG-100-1 and an example code describbing the methodology.  
+
+This repo contains a dynamically decomposed (bulge-disc) catalog for IllustrisTNG-100-1 and an example notebook demonstrating the methodology.  
 
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/mc_image.png?raw=true)
@@ -9,12 +10,11 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for Illustris
 ## Performance on large ensemble of galaxies: Distribution of half-mass radii and Sersic indeces
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
-*Figure: Fit paramters from a Sersic profile on galaxies of TNG100-1. More details are in the paper.*
-
+*Figure: Parameters from fits to Sersic profiles on the decomposed components of galaxies of TNG100-1. More details are in the paper.*
 
 ## Dependencies
 
-To run, the following Python packages are required other than standard ones like pandas, numpy, scipy, matplotlib:
+To run the example notebook, the following Python packages are required other than standard ones like pandas, numpy, scipy, matplotlib:
 
 * [astropy](http://www.astropy.org)
 * [inertia_tensors](https://github.com/duncandc/inertia_tensors/edit/master/README.md)
