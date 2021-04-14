@@ -1,5 +1,5 @@
 # Dynamical Galaxy decomposition
-This repo contains the dynamically decomposed (bulge-disc) catalog for IllustrisTNG-100-1 and an example code describbing the methodology in *Galaxy_decomposition_methodology.ipynb*.  
+This repo contains the dynamically decomposed (bulge-disc) catalog for  [IllustrisTNG-100-1](https://www.tng-project.org/) (which at the time was the highest resolution publicly available dataset) and an example code describbing the methodology in *Galaxy_decomposition_methodology.ipynb*.  
 
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/mc_image.png?raw=true)
