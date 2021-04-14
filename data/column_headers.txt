@@ -1,7 +1,7 @@
 gal_id: the galaxy (subhalo) id in the IllustrisTNG-100-1 catalog
 f_disk_2d: fraction of stars in the disk obtained by the 2D galaxy decomposition method described in the paper
-f_disk_1d_2comp_1: fraction of stars in the disk obtained by integrating the first (thin) disk component of the 1D galaxy decomposition method
-f_disk_1d_2comp_2: fraction of stars in the disk obtained by integrating the second (thick) disk component of the 1D galaxy decomposition method
+f_disk_1d_2comp_1: fraction of stars in the disk obtained by integrating the first disk component of the 1D galaxy decomposition method
+f_disk_1d_2comp_2: fraction of stars in the disk obtained by integrating the second disk component of the 1D galaxy decomposition method
 f_disk_1d_2comp_counter: fraction of stars in the disk obtained by integrating the third (counter-rotating) disk component of the 1D galaxy decomposition method
 f_disk_1d_1comp: fraction of stars in the disk obtained by integrating the only disk component of the 1D method with 1 disk component
 f_disk_1d_1comp_counter: fraction of stars in the disk obtained by integrating the second (counter-rot.) disk component of the 1D method with 1 disk component
