@@ -1,9 +1,8 @@
 # Dynamical Galaxy decomposition
  
 
-This repo contains a dynamically decomposed (bulge-disc) catalog for IllustrisTNG-100-1 and an example notebook demonstrating the methodology.  
-=======
-This repo contains the dynamically decomposed (bulge-disc) catalog for  [IllustrisTNG-100-1](https://www.tng-project.org/) (which at the time was the highest resolution publicly available dataset) and an example code describbing the methodology in *Galaxy_decomposition_methodology.ipynb*.  
+
+This repo contains a dynamically decomposed (bulge-disc) catalog for  [IllustrisTNG-100-1](https://www.tng-project.org/) (which at the time was the highest resolution publicly available dataset) and an example code describbing the methodology in *Galaxy_decomposition_methodology.ipynb*.  
  
 
 
@@ -16,10 +15,9 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for  [Illustr
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
 *Figure: Parameters from fits to Sersic profiles on the decomposed components of galaxies of TNG100-1. More details are in the paper.*
-=======
+ 
 *Examples_with_catalog.ipynb* notebook demonstrates how to use the data catalog `data/TNG100-1_99_galaxy_scale_len_height_no-idx-bound_Cis1_5r.dat`
-![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/sersic.png?raw=true)
-*Figure: Fit paramters from a Sersic profile on galaxies of TNG100-1. More details are in the paper.*
+ 
 
  
 ## Dependencies
