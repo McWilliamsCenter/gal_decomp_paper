@@ -7,7 +7,7 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for Illustris
 *Figure: Example of a decomposed galaxy from TNG100-1. The procedure, dynamical/kinematic parameters and variables used here are explained in the paper.*
 
 ## Performance on large ensemble of galaxies: Distribution of half-mass radii and Sersic indeces
-
+*Examples_with_catalog.ipynb* notebook demonstrates how to use the data catalog in `data/`
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/sersic.png?raw=true)
 *Figure: Fit paramters from a Sersic profile on galaxies of TNG100-1. More details are in the paper.*
 
