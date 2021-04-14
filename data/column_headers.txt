@@ -1,17 +1,16 @@
 gal_id: the galaxy (subhalo) id in the IllustrisTNG-100-1 catalog
-f_disk: fraction of stars in the disk obtained by the 2D galaxy decomposition method described in the paper
-cos_disk_1: fraction of stars in the disk obtained by integrating the first (thin) disk component of the 1D galaxy decomposition method
-cos_disk_2: fraction of stars in the disk obtained by integrating the second (thick) disk component of the 1D galaxy decomposition method
-cos_disk_counter: fraction of stars in the disk obtained by integrating the third (counter-rotating) disk component of the 1D galaxy decomposition method
-cos1_disk_1: fraction of stars in the disk obtained by integrating the only disk component of the 1D method with 1 disk component
-cos1_disk_counter: fraction of stars in the disk obtained by integrating the second (counter-rot.) disk component of the 1D method with 1 disk component
-chisq1s: chi-squared value of the 2 disk component model
-chisqs:  chi-squared value of the 1 disk component model
-bulge_scale_len: Scale length (R_1/2) of the bulge [kpc]
-bulge_scale_len_err: one standard deviation errors on the corresponding parameters
+f_disk_2d: fraction of stars in the disk obtained by the 2D galaxy decomposition method described in the paper
+f_disk_1d_2comp_1: fraction of stars in the disk obtained by integrating the first (thin) disk component of the 1D galaxy decomposition method
+f_disk_1d_2comp_2: fraction of stars in the disk obtained by integrating the second (thick) disk component of the 1D galaxy decomposition method
+f_disk_1d_2comp_counter: fraction of stars in the disk obtained by integrating the third (counter-rotating) disk component of the 1D galaxy decomposition method
+f_disk_1d_1comp: fraction of stars in the disk obtained by integrating the only disk component of the 1D method with 1 disk component
+f_disk_1d_1comp_counter: fraction of stars in the disk obtained by integrating the second (counter-rot.) disk component of the 1D method with 1 disk component
+chisq_1comp: chi-squared value of the 2 disk component model
+chisq_2comp:  chi-squared value of the 1 disk component model
+bulge_r_1/2	: R_1/2 of the bulge [kpc]
+bulge_r_1/2_err: one standard deviation errors on the corresponding parameters
 bulge_index: Sersic index of the bulge
 bulge_index_err: one standard deviation errors on the corresponding parameters
-disk_scale_len: Scale length (R_1/2) of the disk [kpc]
-disk_scale_len_err: one standard deviation errors on the corresponding parameters
-disk_scale_height: Scale height (R_1/2) of the disk [kpc]
-disk_scale_height_err:  one standard deviation errors on the corresponding parameters
+disk_r_1/2: R_1/2 of the disk [kpc]
+disk_r_1/2_err: one standard deviation errors on the corresponding parameters
+ 
