@@ -1,10 +1,10 @@
 # Dynamical Galaxy decomposition
-<<<<<<< HEAD
+ 
 
 This repo contains a dynamically decomposed (bulge-disc) catalog for IllustrisTNG-100-1 and an example notebook demonstrating the methodology.  
 =======
 This repo contains the dynamically decomposed (bulge-disc) catalog for  [IllustrisTNG-100-1](https://www.tng-project.org/) (which at the time was the highest resolution publicly available dataset) and an example code describbing the methodology in *Galaxy_decomposition_methodology.ipynb*.  
->>>>>>> 93800539b5a381efd047ed6db3bdc2210f15f317
+ 
 
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/mc_image.png?raw=true)
@@ -12,7 +12,7 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for  [Illustr
 *Figure: Example of a decomposed galaxy from TNG100-1. The procedure, dynamical/kinematic parameters and variables used here are explained in the paper.*
 
 ## Performance on large ensemble of galaxies: Distribution of half-mass radii and Sersic indeces
-<<<<<<< HEAD
+ 
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
 *Figure: Parameters from fits to Sersic profiles on the decomposed components of galaxies of TNG100-1. More details are in the paper.*
@@ -21,8 +21,7 @@ This repo contains the dynamically decomposed (bulge-disc) catalog for  [Illustr
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/sersic.png?raw=true)
 *Figure: Fit paramters from a Sersic profile on galaxies of TNG100-1. More details are in the paper.*
 
->>>>>>> 93800539b5a381efd047ed6db3bdc2210f15f317
-
+ 
 ## Dependencies
 
 To run the example notebook, the following Python packages are required other than standard ones like pandas, numpy, scipy, matplotlib:
