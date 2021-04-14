@@ -13,7 +13,7 @@ This repo contains a dynamically decomposed (bulge-disc) catalog for  [Illustris
 ## Performance on large ensemble of galaxies: Distribution of half-mass radii and Sersic indeces
  
 
-![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/sersic.png?raw=true)
+![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/sersic.png?raw=true)
 *Figure: Parameters from fits to Sersic profiles on the decomposed components of galaxies of TNG100-1. More details are in the paper.*
  
 *Examples_with_catalog.ipynb* notebook demonstrates how to use the data catalog `data/TNG100-1_99_galaxy_scale_len_height_no-idx-bound_Cis1_5r.dat`
