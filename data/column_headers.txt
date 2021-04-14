@@ -1,17 +1,17 @@
 gal_id: the galaxy (subhalo) id in the IllustrisTNG-100-1 catalog
-f_disk: fraction of stars in the disc obtained by the 2D galaxy decomposition method described in the paper
-cos_disk_1: fraction of stars in the disc obtained by integrating the first (thin) disc component of the 1D galaxy decomposition method
-cos_disk_2: fraction of stars in the disc obtained by integrating the second (thick) disc component of the 1D galaxy decomposition method
-cos_disk_counter: fraction of stars in the disc obtained by integrating the third (counter-rotating) disc component of the 1D galaxy decomposition method
-cos1_disk_1: fraction of stars in the disc obtained by integrating the only disc component of the 1D method with 1 disc component
-cos1_disk_counter: fraction of stars in the disc obtained by integrating the second (counter-rot.) disc component of the 1D method with 1 disc component
-chisq1s: chi-squared value of the 2 disc component model
-chisqs:  chi-squared value of the 1 disc component model
+f_disk: fraction of stars in the disk obtained by the 2D galaxy decomposition method described in the paper
+cos_disk_1: fraction of stars in the disk obtained by integrating the first (thin) disk component of the 1D galaxy decomposition method
+cos_disk_2: fraction of stars in the disk obtained by integrating the second (thick) disk component of the 1D galaxy decomposition method
+cos_disk_counter: fraction of stars in the disk obtained by integrating the third (counter-rotating) disk component of the 1D galaxy decomposition method
+cos1_disk_1: fraction of stars in the disk obtained by integrating the only disk component of the 1D method with 1 disk component
+cos1_disk_counter: fraction of stars in the disk obtained by integrating the second (counter-rot.) disk component of the 1D method with 1 disk component
+chisq1s: chi-squared value of the 2 disk component model
+chisqs:  chi-squared value of the 1 disk component model
 bulge_scale_len: Scale length (R_1/2) of the bulge [kpc]
-bulge_scale_len_err: corresponding error
+bulge_scale_len_err: one standard deviation errors on the corresponding parameters
 bulge_index: Sersic index of the bulge
-bulge_index_err: corresponding error 
-disk_scale_len: Scale length (R_1/2) of the disc [kpc]
-disk_scale_len_err: corresponding error
-disk_scale_height: Scale length (R_1/2) of the bulge [kpc]
-disk_scale_height_err: corresponding error
+bulge_index_err: one standard deviation errors on the corresponding parameters
+disk_scale_len: Scale length (R_1/2) of the disk [kpc]
+disk_scale_len_err: one standard deviation errors on the corresponding parameters
+disk_scale_height: Scale height (R_1/2) of the disk [kpc]
+disk_scale_height_err:  one standard deviation errors on the corresponding parameters
