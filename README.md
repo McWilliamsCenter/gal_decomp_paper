@@ -19,3 +19,7 @@ To run, the following Python packages are required other than standard ones like
 * [astropy](http://www.astropy.org)
 * [inertia_tensors](https://github.com/duncandc/inertia_tensors/edit/master/README.md)
 * [illustris_python](https://bitbucket.org/illustris/illustris_python)
+
+
+## Conatact and issues
+For questions/issues regarding this repo please use the Issues feature by clicking on "New Issues"
