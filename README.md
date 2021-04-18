@@ -29,5 +29,5 @@ To run the example notebook, the following Python packages are required other th
 * [illustris_python](https://bitbucket.org/illustris/illustris_python)
 
 
-## Conatact and issues
+## Contact and issues
 For questions/issues regarding this repo please use the Issues feature by clicking on "New Issues"
