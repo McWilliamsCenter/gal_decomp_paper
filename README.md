@@ -14,7 +14,7 @@ This repository contains a dynamically decomposed (bulge-disc) catalog for  [Ill
  
 
 ![alt text](https://github.com/McWilliamsCenter/gal_decomp_paper/blob/main/figs/sersic.png?raw=true)
-*Figure: Parameters from fits to Sersic profiles on the project mass profiles of decomposed components of galaxies of TNG100-1. More details are in the paper.*
+*Figure: Parameters from fits to Sersic profiles on the projected mass profiles of decomposed components of galaxies of TNG100-1. More details are in the paper.*
  
 *Examples_with_catalog.ipynb* notebook demonstrates how to use the data catalog `data/TNG100-1_99_galaxy_scale_len_height_no-idx-bound_Cis1_5r.dat`
  
