@@ -27,6 +27,7 @@ To run the example notebook, the following Python packages are required other th
 * [astropy](http://www.astropy.org)
 * [inertia_tensors](https://github.com/duncandc/inertia_tensors/edit/master/README.md)
 * [illustris_python](https://bitbucket.org/illustris/illustris_python)
+* [pomegranate](https://pomegranate.readthedocs.io/en/latest/)
 
 
 ## Contact and reporting issues
